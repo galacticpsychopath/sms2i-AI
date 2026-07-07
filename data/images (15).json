@@ -1,0 +1,28 @@
+{
+  "version": "6.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "yogurt",
+      "points": [
+        [
+          42.6099476439791,
+          47.060209424083794
+        ],
+        [
+          421.14397905759165,
+          424.5471204188482
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "images (15).jpg",
+  "imageData": null,
+  "imageHeight": 447,
+  "imageWidth": 447
+}
