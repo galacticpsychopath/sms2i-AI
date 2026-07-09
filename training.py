@@ -5,7 +5,7 @@ model=YOLO("yolov8n.pt")
 
 results = model.train(
     data="./dataset/dataset.yaml",
-    epochs=100,
+    epochs=200,
     imgsz=640,
     device="cpu",
     workers=2,
