@@ -1,1 +1,0 @@
-first training : Recall (0.833) / Precision (0.98) / mAP50 (0.955)  date : 07/08/2026
