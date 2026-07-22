@@ -1,0 +1,226 @@
+{
+  "version": "6.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "yogurt",
+      "points": [
+        [
+          77.99514563106794,
+          33.242718446601955
+        ],
+        [
+          134.79126213592235,
+          73.0485436893204
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "yogurt",
+      "points": [
+        [
+          124.59708737864077,
+          24.99029126213593
+        ],
+        [
+          175.56796116504853,
+          66.25242718446603
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "yogurt",
+      "points": [
+        [
+          89.1601941747573,
+          77.41747572815534
+        ],
+        [
+          137.70388349514565,
+          121.10679611650485
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "yogurt",
+      "points": [
+        [
+          132.36407766990294,
+          70.13592233009709
+        ],
+        [
+          184.30582524271847,
+          112.36893203883496
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "yogurt",
+      "points": [
+        [
+          96.44174757281553,
+          123.0485436893204
+        ],
+        [
+          147.89805825242718,
+          160.91262135922332
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "yogurt",
+      "points": [
+        [
+          141.5873786407767,
+          116.25242718446601
+        ],
+        [
+          191.10194174757282,
+          156.54368932038835
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "yogurt",
+      "points": [
+        [
+          103.72330097087377,
+          166.25242718446603
+        ],
+        [
+          153.72330097087377,
+          204.11650485436894
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "yogurt",
+      "points": [
+        [
+          144.98543689320388,
+          157.51456310679612
+        ],
+        [
+          197.89805825242718,
+          197.80582524271847
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "yogurt",
+      "points": [
+        [
+          109.54854368932041,
+          206.54368932038835
+        ],
+        [
+          161.97572815533982,
+          243.4368932038835
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "yogurt",
+      "points": [
+        [
+          157.60679611650488,
+          200.71844660194176
+        ],
+        [
+          202.752427184466,
+          239.06796116504856
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "yogurt",
+      "points": [
+        [
+          116.83009708737865,
+          247.80582524271847
+        ],
+        [
+          166.83009708737865,
+          288.09708737864077
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "yogurt",
+      "points": [
+        [
+          164.40291262135923,
+          241.49514563106797
+        ],
+        [
+          207.121359223301,
+          279.84466019417476
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Screenshot 2026-07-22 084756.png",
+  "imageData": null,
+  "imageHeight": 416,
+  "imageWidth": 239
+}
